@@ -11,8 +11,19 @@
       left: 95px;
       right: 0;
       position: absolute;
-      top: -30px;
       z-index: 2;
+
+      top: -30px;
+
+
+
+      @media all and (max-width: $screen-sm-max) {
+        top: -10px;
+      }
+
+      @media all and (max-width: $screen-xs-max) {
+        top: 30px;
+      }
 
     }
   }
@@ -29,6 +40,19 @@
   animation: spin 3s infinite linear;
   overflow: hidden;
   zoom: .9;
+
+  @media (max-width: $screen-sm-max) {
+    top: -115px;
+  }
+
+  @media (max-width: $screen-xs-max) {
+    top: -70px;
+    margin: 0 auto;
+    left:0;
+    right:0;
+  }
+
+
 }
 .haxagon-container .hexagon-piece-container {
   fill: none;

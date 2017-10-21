@@ -210,6 +210,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="timeline">
+                    <h3 class="text-uppercase">MILESTONES</h3>
                     <div class="timeline-item">
                         <div class="timeline-point">
                         </div>

@@ -5,6 +5,9 @@ $(document).ready(function() {
                 selectors: {
                     target: '.sortable-item',
                     filter: '.filter'
+                },
+                load: {
+                    filter: '.executive-team'
                 }
             });
         }

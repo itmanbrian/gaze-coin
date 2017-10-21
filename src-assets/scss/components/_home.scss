@@ -246,6 +246,7 @@
 }
 
 .introduction{
+  padding-bottom: 0px;
   h1{
     font-size: 45px;
     font-weight: 600;
@@ -282,7 +283,10 @@
   }
 
   .introduction-stats{
-    margin-top:90px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+    height: auto;
+    overflow: hidden;
 
     .stat-block{
       margin-bottom:45px;
@@ -406,6 +410,10 @@
         text-align: left;
         margin-top:0px;
         margin-bottom:30px;
+        @media (max-width: $screen-xs-max) {
+          text-align: center;
+          margin-top: 210px;
+        }
 
       }
       h2{
@@ -413,6 +421,9 @@
         font-weight: 400;
         font-size: 35px;
         text-align: right;
+        @media (max-width: $screen-sm-max) {
+          text-align: center;
+        }
         svg{
           width: 25px;
           height: 25px;
@@ -429,7 +440,12 @@
         right: 0px;
       }
     }
+
+
   }
+
+
+
 
 
 }
@@ -454,6 +470,7 @@
     margin-bottom:60px;
     text-decoration: none;
     cursor: pointer;
+    display: block;
 
     .item-img{
       min-height: 255px;
@@ -544,6 +561,12 @@
   padding:75px 0px;
   h1{
     margin:0px;
+    line-height: 60px;
+
+    @media (max-width: $screen-sm-max) {
+      text-align: center;
+      margin-bottom: 40px;
+    }
   }
 
   ul{
@@ -552,12 +575,21 @@
       text-align: center;
     }
     li{
+      margin-right:25px;
+      @media (max-width: $screen-xs-max) {
+        margin-right: 0px;
+
+      }
+      &:last-child{
+        margin-right: 0px;
+      }
+
       .partner-item{
-        width:310px;
-        height:40px;
+        width:290px;
+        height:75px;
         background-repeat: no-repeat;
         @media (max-width: $screen-xs-max) {
-          width:290px;
+          margin-bottom: 15px;
         }
       }
     }
