@@ -57,7 +57,7 @@
                     <div class="col-md-offset-1 col-md-4">
                         <ul class="list-unstyled footer-buttons">
                             <li>
-                                <a href="" class="btn btn-block btn-aware-position text-center">
+                                <a href="https://www.youtube.com/watch?v=Vck6eVzubis" class="btn btn-block btn-aware-position text-center">
                                     <svg class="icon-play-alt">
                                         <use xlink:href="#icon-play-alt"></use>
                                     </svg>
@@ -68,11 +68,11 @@
                             </li>
 
                             <li>
-                                <a href="" class="btn btn-block btn-aware-position text-center">WHITEPAPER<span></span></a>
+                                <a href="https://www.gazecoin.io/static/GazeCoin_WhitePaper.pdf" class="btn btn-block btn-aware-position text-center">WHITEPAPER<span></span></a>
                             </li>
 
                             <li>
-                                <a href="" class="btn btn-block btn-aware-position text-center">STAY UP-TO-DATE<span></span></a>
+                                <a href="https://www.gazecoin.io/register" class="btn btn-block btn-aware-position text-center">STAY UP-TO-DATE<span></span></a>
                             </li>
                         </ul>
                     </div>
@@ -114,7 +114,7 @@
 
                             <p>© 2017. All Rights Reserved.</p>
 
-                            <a href="" class="go-to-top"><b class="caret"></b>REACH FOR THE TOP</a>
+                            <a href="#" class="go-to-top"><b class="caret"></b>REACH FOR THE TOP</a>
 
                         </div>
 

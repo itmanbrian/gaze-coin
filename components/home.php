@@ -12,7 +12,7 @@
                                         <h1 class="text-white">BLOCKCHAIN - VR / AR TOKEN</h1>
                                         <p>Unit of exchange between users, advertisers and<br>content makers based on 'Gaze' / Eye Tracking</p>
                                         <ul class="list-unstyled list-inline">
-                                            <li><a href="" class="btn btn-aware-position text-uppercase">WHITEPAPER<span></span></a></li>
+                                            <li><a href="https://www.gazecoin.io/static/GazeCoin_WhitePaper.pdf" class="btn btn-aware-position text-uppercase">WHITEPAPER<span></span></a></li>
                                             <li><a href="" class="btn btn-aware-position text-uppercase">EXECUTIVE SUMMARY<span></span></a></li>
                                         </ul>
                                     </div>
@@ -33,19 +33,19 @@
                                 <div class="row">
                                     <div class="col-xs-offset-1 col-xs-10 col-sm-offset-3 col-sm-6 col-md-offset-0 col-md-5 ">
                                         <div class="watch-date">
-                                            <h2 class="text-uppercase">
+                                            <a href="https://www.youtube.com/watch?v=Vck6eVzubis"><h2 class="text-uppercase">
                                                 <svg class="icon-play-alt">
                                                     <use xlink:href="#icon-play-alt"></use>
                                                 </svg>
                                                 Watch how TO GAZE
-                                            </h2>
-                                            <h3 class="text-uppercase">
+                                            </h2></a>
+                                            <a href="https://www.gazecoin.io/register"><h3 class="text-uppercase">
 
                                                 <svg class="icon-newsletter">
                                                     <use xlink:href="#icon-newsletter"></use>
                                                 </svg>
 
-                                                STAY UP-TO-DATE</h3>
+                                                STAY UP-TO-DATE</h3></a>
                                             <form class="stay-up-to-date-form">
                                                 <div class="input-group">
                                                     <input type="text" class="form-control" placeholder="email address">
@@ -577,7 +577,7 @@
         <div class="row">
 
             <div class="col-sm-6 col-md-4">
-                <a class="vlog-post">
+                <a class="vlog-post" href="https://www.youtube.com/watch?v=weoilQX6mz4">
                     <div class="bg-center bg-cover item-img lazy" data-original="assets/images/vlog/item-1.jpg">
                         <div class="play-icon"></div>
                     </div>
@@ -589,7 +589,7 @@
             </div>
 
             <div class="col-sm-6 col-md-4">
-                <a class="vlog-post">
+                <a class="vlog-post" href="https://www.youtube.com/watch?v=aIKI0O3UkW4">
                     <div class="bg-center bg-cover item-img lazy" data-original="assets/images/vlog/item-2.jpg">
                         <div class="play-icon"></div>
                     </div>
@@ -602,7 +602,7 @@
 
 
             <div class="col-sm-6 col-md-4">
-                <a class="vlog-post">
+                <a class="vlog-post" href="https://www.youtube.com/watch?v=Vck6eVzubis">
                     <div class="bg-center bg-cover item-img lazy" data-original="assets/images/vlog/item-3.jpg">
                         <div class="play-icon"></div>
                     </div>

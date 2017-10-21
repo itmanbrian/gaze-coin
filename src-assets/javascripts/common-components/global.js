@@ -23,11 +23,16 @@ $(function() {
                 relX = e.pageX - parentOffset.left,
                 relY = e.pageY - parentOffset.top;
             $(this).find('span').css({top:relY, left:relX})
-        })
-        .on('mouseout', function(e) {
+        }).on('mouseout', function(e) {
             var parentOffset = $(this).offset(),
                 relX = e.pageX - parentOffset.left,
                 relY = e.pageY - parentOffset.top;
             $(this).find('span').css({top:relY, left:relX})
-        });
+    });
+
+    $(".go-to-top").click(function() {
+        $('html, body').animate({
+            scrollTop: $("header").offset().top
+        }, 2000);
+    });
 });
