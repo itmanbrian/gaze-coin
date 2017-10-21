@@ -56,13 +56,13 @@
                         <ul class="nav navbar-nav navbar-left">
                             <li><a href="#">About</a></li>
                             <li><a href="#">ICO</a></li>
-                            <li class="hidden-xs">
+                            <li class="hidden-xs hidden-sm">
                                 <select class="form-control">
                                     <option value="en">EN</option>
                                     <option value="en">FR</option>
                                 </select>
                             </li>
-                            <li class="hidden-xs">
+                            <li class="hidden-xs hidden-sm">
                                 <a href="">
 
                                     <svg class="icon-twitter">
@@ -71,7 +71,7 @@
 
                                 </a>
                             </li>
-                            <li class="hidden-xs">
+                            <li class="hidden-xs hidden-sm">
                                 <a href="">
                                     <svg class="icon-facebook">
                                         <use xlink:href="#icon-facebook"></use>
