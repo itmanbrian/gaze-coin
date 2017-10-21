@@ -1,1 +1,1 @@
-# gaze-coin
+# Gaze Coin
