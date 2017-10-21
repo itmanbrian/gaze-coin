@@ -58,6 +58,7 @@ gulp.task('styles', function () {
           'javascripts/components/forms-validation.js',
           'javascripts/components/smooth-scroll.js',
           'javascripts/components/fixed-header.js',
+          'javascripts/components/particles.js',
       ])
 	   .pipe(concat('scripts.js'))
 	   .pipe(uglify())

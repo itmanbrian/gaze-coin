@@ -1,4 +1,7 @@
+
 <section class="bg-dark hero-section text-center">
+    <div id="particles-foreground" class="vertical-centered-box"></div>
+
     <div class="va-container va-container-v va-container-h">
         <div class="va-middle">
                         <div class="hero-section-content">

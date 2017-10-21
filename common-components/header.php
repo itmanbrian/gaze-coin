@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
-    <title>École Le Paradis des Enfants</title>
+    <title>Gaze Coin</title>
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
   </head>
@@ -56,13 +56,13 @@
                         <ul class="nav navbar-nav navbar-left">
                             <li><a href="#">About</a></li>
                             <li><a href="#">ICO</a></li>
-                            <li>
+                            <li class="hidden-xs">
                                 <select class="form-control">
                                     <option value="en">EN</option>
                                     <option value="en">FR</option>
                                 </select>
                             </li>
-                            <li>
+                            <li class="hidden-xs">
                                 <a href="">
 
                                     <svg class="icon-twitter">
@@ -71,7 +71,7 @@
 
                                 </a>
                             </li>
-                            <li>
+                            <li class="hidden-xs">
                                 <a href="">
                                     <svg class="icon-facebook">
                                         <use xlink:href="#icon-facebook"></use>

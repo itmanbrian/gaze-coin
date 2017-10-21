@@ -199,6 +199,10 @@
       border-color: transparent;
       margin: 34px 15px;
 
+      @media all and (min-width:$screen-sm-min) and (max-width: $screen-sm-max) {
+        margin: 24px 15px;
+      }
+
       &:focus,
       &:hover{
         background-color: transparent;
@@ -229,8 +233,18 @@
         padding:0px;
       }
 
+
+      @media all and (min-width:$screen-sm-min) and (max-width: $screen-sm-max) {
+        padding: 30px 0px;
+        min-height: 130px;
+      }
+
       .navbar-header{
         border-bottom: 1px solid rgba(0,0,0,0.2);
+
+        @media all and (min-width:$screen-sm-min) and (max-width: $screen-sm-max) {
+          border:0px;
+        }
       }
 
       .navbar-brand{
@@ -240,6 +254,8 @@
         @media all and (max-width:$screen-xs-max){
           top:20px;
         }
+
+
       }
 
       .navbar-toggle{
