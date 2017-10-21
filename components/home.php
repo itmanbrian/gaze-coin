@@ -76,7 +76,7 @@
                                             <div id="time-remaining"></div>
 
 
-                                            <p>Contact <a href="">support@gazecoin.io</a> for more details.</p>
+                                            <p>Contact <a href="mailto:support@gazecoin.io">support@gazecoin.io</a> for more details.</p>
 
 
                                         </div>
