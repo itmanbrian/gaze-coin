@@ -46,7 +46,7 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 
 ## Install
 
-    $ git clone https://github.com/ORG/PROJECT.git
+    $ git clone https://github.com/itmanbrian/gaze-coin.git
     $ cd PROJECT/src-asssets/
     $ npm install
 
